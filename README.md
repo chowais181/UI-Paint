@@ -1,6 +1,9 @@
 # UI Paint (BGI-C-OOP)
 This is the simple Borland Graphics Interface (BGI) based painting tool which is programmed by totolly using OOP approach.
  
+ ### View 
+ ![project Display](https://github.com/chowais181/UI-Paint-/blob/main/view.PNG)
+ 
 ### Included libraries
 - Using graphics.h header file.
 - including cmath for determinig the positions 
